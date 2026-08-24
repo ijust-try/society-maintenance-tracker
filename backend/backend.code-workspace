@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../deploy"
+		},
+		{
+			"path": "../frontend"
+		},
+		{
+			"path": "../tests"
+		}
+	]
+}
